@@ -1,0 +1,1816 @@
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Aspire version: 9.2.0+0fcb1e9885266c1700c49c16513a6d97480bb058
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Distributed application starting.
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Application host directory is: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.AppHost
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Distributed application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      1: 2025-04-28T06:26:15.4722712Z SQL Server 2022 will run as non-root by default.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      2: 2025-04-28T06:26:15.4723144Z This container is running as user mssql.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      3: 2025-04-28T06:26:15.4723163Z To learn more visit https://go.microsoft.com/fwlink/?linkid=2099216.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      4: 2025-04-28T06:26:18.7502222Z 2025-04-28 06:26:18.73 Server      Setup step is copying system data file 'C:\templatedata\master.mdf' to '/var/opt/mssql/data/master.mdf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      5: 2025-04-28T06:26:18.7587136Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      6: 2025-04-28 06:26:18.75 Server      Did not find an existing master data file /var/opt/mssql/data/master.mdf, copying the missing default master and other system database files. If you have moved the database location, but not moved the database files, startup may fail. To repair: shutdown SQL Server, move the master database to configured location, and restart.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      7: 2025-04-28T06:26:18.7595233Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      8: 2025-04-28 06:26:18.75 Server      Setup step is copying system data file 'C:\templatedata\mastlog.ldf' to '/var/opt/mssql/data/mastlog.ldf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      9: 2025-04-28T06:26:18.7628367Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      10: 2025-04-28 06:26:18.75 Server      Setup step is copying system data file 'C:\templatedata\model.mdf' to '/var/opt/mssql/data/model.mdf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      11: 2025-04-28T06:26:18.7712851Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      12: 2025-04-28 06:26:18.76 Server      Setup step is copying system data file 'C:\templatedata\modellog.ldf' to '/var/opt/mssql/data/modellog.ldf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      13: 2025-04-28T06:26:18.7803135Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      14: 2025-04-28 06:26:18.77 Server      Setup step is copying system data file 'C:\templatedata\msdbdata.mdf' to '/var/opt/mssql/data/msdbdata.mdf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      15: 2025-04-28T06:26:18.7920196Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      16: 2025-04-28 06:26:18.78 Server      Setup step is copying system data file 'C:\templatedata\msdblog.ldf' to '/var/opt/mssql/data/msdblog.ldf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      17: 2025-04-28T06:26:18.7956980Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      18: 2025-04-28 06:26:18.79 Server      Setup step is FORCE copying system data file 'C:\templatedata\model_replicatedmaster.mdf' to '/var/opt/mssql/data/model_replicatedmaster.mdf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      19: 2025-04-28T06:26:18.8019278Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      20: 2025-04-28 06:26:18.79 Server      Setup step is FORCE copying system data file 'C:\templatedata\model_replicatedmaster.ldf' to '/var/opt/mssql/data/model_replicatedmaster.ldf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      21: 2025-04-28T06:26:18.8053019Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      22: 2025-04-28 06:26:18.80 Server      Setup step is FORCE copying system data file 'C:\templatedata\model_msdbdata.mdf' to '/var/opt/mssql/data/model_msdbdata.mdf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      23: 2025-04-28T06:26:18.8173683Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      24: 2025-04-28 06:26:18.81 Server      Setup step is FORCE copying system data file 'C:\templatedata\model_msdblog.ldf' to '/var/opt/mssql/data/model_msdblog.ldf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      25: 2025-04-28T06:26:18.8322177Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      26: 2025-04-28 06:26:18.82 Server      Microsoft SQL Server 2022 (RTM-CU18) (KB5050771) - 16.0.4185.3 (X64) 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      27: 2025-04-28T06:26:18.8324839Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      28: 	Feb 28 2025 18:24:49 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      29: 2025-04-28T06:26:18.8325020Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      30: 	Copyright (C) 2022 Microsoft Corporation
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      31: 2025-04-28T06:26:18.8328292Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      32: 	Developer Edition (64-bit) on Linux (Ubuntu 22.04.5 LTS) <X64>
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      33: 2025-04-28T06:26:18.8330631Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      34: 2025-04-28 06:26:18.82 Server      UTC adjustment: 0:00
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      35: 2025-04-28T06:26:18.8334532Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      36: 2025-04-28 06:26:18.82 Server      (c) Microsoft Corporation.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      37: 2025-04-28T06:26:18.8338927Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      38: 2025-04-28 06:26:18.82 Server      All rights reserved.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      39: 2025-04-28T06:26:18.8344165Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      40: 2025-04-28 06:26:18.83 Server      Server process ID is 580.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      41: 2025-04-28T06:26:18.8352773Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      42: 2025-04-28 06:26:18.83 Server      Logging SQL Server messages in file '/var/opt/mssql/log/errorlog'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      43: 2025-04-28T06:26:18.8358552Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      44: 2025-04-28 06:26:18.83 Server      Registry startup parameters: 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      45: 2025-04-28T06:26:18.8359550Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      46: 	 -d /var/opt/mssql/data/master.mdf
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      47: 2025-04-28T06:26:18.8361762Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      48: 	 -l /var/opt/mssql/data/mastlog.ldf
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      49: 2025-04-28T06:26:18.8363832Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      50: 	 -e /var/opt/mssql/log/errorlog
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      51: 2025-04-28T06:26:18.8390803Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      52: 2025-04-28 06:26:18.83 Server      SQL Server detected 1 sockets with 11 cores per socket and 22 logical processors per socket, 22 total logical processors; using 22 logical processors based on SQL Server licensing. This is an informational message; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      53: 2025-04-28T06:26:18.8405932Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      54: 2025-04-28 06:26:18.83 Server      SQL Server is starting at normal priority base (=7). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      55: 2025-04-28T06:26:18.8420656Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      56: 2025-04-28 06:26:18.83 Server      Detected 12579 MB of RAM, 11842 MB of available memory, 11842 MB of available page file. This is an informational message; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      57: 2025-04-28T06:26:18.8426907Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      58: 2025-04-28 06:26:18.83 Server      Using conventional memory in the memory manager.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      59: 2025-04-28T06:26:18.8432684Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      60: 2025-04-28 06:26:18.83 Server      Detected pause instruction latency: 136 cycles.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      61: 2025-04-28T06:26:18.8447138Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      62: 2025-04-28 06:26:18.84 Server      SQL Server detected the following NUMA node configuration (NUMA Node number 0, Processor Group number 0, CPU Mask 0x00000000003fffff).
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      63: 2025-04-28T06:26:18.8540917Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      64: 2025-04-28 06:26:18.84 Server      Page exclusion bitmap is enabled.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      65: 2025-04-28T06:26:18.8997603Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      66: 2025-04-28 06:26:18.89 Server      Buffer pool extension is not supported on Linux platform.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      67: 2025-04-28T06:26:18.9055519Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      68: 2025-04-28 06:26:18.90 Server      Buffer Pool: Allocating 16777216 bytes for 1893460 hashPages.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      69: 2025-04-28T06:26:18.9544667Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      70: 2025-04-28 06:26:18.94 Server      Automatic soft-NUMA was enabled because SQL Server has detected hardware NUMA nodes with greater than 8 physical cores.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      71: 2025-04-28T06:26:19.0349887Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      72: 2025-04-28 06:26:19.03 Server      Buffer pool extension is already disabled. No action is necessary.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      73: 2025-04-28T06:26:19.3523743Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      74: 2025-04-28 06:26:19.34 Server      Installing Client TLS certificates to the store.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      75: 2025-04-28T06:26:19.3582301Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      76: 2025-04-28 06:26:19.35 Server      CPU vectorization level(s) detected:  SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 POPCNT BMI1 BMI2
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      77: 2025-04-28T06:26:19.4110610Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      78: 2025-04-28 06:26:19.40 Server      Successfully initialized the TLS configuration. Allowed TLS protocol versions are ['1.0 1.1 1.2']. Allowed TLS ciphers are ['ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-ECDSA-AES128-SHA:AES256-GCM-SHA384:AES128-GCM-SHA256:AES256-SHA256:AES128-SHA256:AES256-SHA:AES128-SHA:!DHE-RSA-AES256-GCM-SHA384:!DHE-RSA-AES128-GCM-SHA256:!DHE-RSA-AES256-SHA:!DHE-RSA-AES128-SHA'].
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      79: 2025-04-28T06:26:19.4251752Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      80: 2025-04-28 06:26:19.42 Server      Query Store settings initialized with enabled = 1, 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      81: 2025-04-28T06:26:19.4368745Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      82: 2025-04-28 06:26:19.43 Server      The maximum number of dedicated administrator connections for this instance is '1'
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      83: 2025-04-28T06:26:19.4437009Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      84: 2025-04-28 06:26:19.43 Server      Node configuration: node 0: CPU mask: 0x0000000000155555:0 Active CPU mask: 0x0000000000155555:0. This message provides a description of the NUMA configuration for this computer. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      85: 2025-04-28T06:26:19.4456487Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      86: 2025-04-28 06:26:19.44 Server      Node configuration: node 1: CPU mask: 0x00000000002aaaaa:0 Active CPU mask: 0x00000000002aaaaa:0. This message provides a description of the NUMA configuration for this computer. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      87: 2025-04-28T06:26:19.4627477Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      88: 2025-04-28 06:26:19.45 Server      Using dynamic lock allocation.  Initial allocation of 2500 Lock blocks and 5000 Lock Owner blocks per node.  This is an informational message only.  No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      89: 2025-04-28T06:26:19.4636874Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      90: 2025-04-28 06:26:19.45 Server      Lock partitioning is enabled.  This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      91: 2025-04-28T06:26:19.4995391Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      92: 2025-04-28 06:26:19.49 Server      In-Memory OLTP initialized on standard machine.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      93: 2025-04-28T06:26:19.5204087Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      94: 2025-04-28 06:26:19.51 Server      [INFO] Created Extended Events session 'hkenginexesession'
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      95: 2025-04-28T06:26:19.5238467Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      96: 2025-04-28 06:26:19.51 Server      Database Instant File Initialization: enabled. For security and performance considerations see the topic 'Database Instant File Initialization' in SQL Server Books Online. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      97: 2025-04-28T06:26:19.5307597Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      98: ForceFlush is enabled for this instance. 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      99: 2025-04-28T06:26:19.5345825Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      100: 2025-04-28 06:26:19.52 Server      Total Log Writer threads: 4. This is an informational message; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      101: 2025-04-28T06:26:19.5398237Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      102: 2025-04-28 06:26:19.53 Server      clwb is selected for pmem flush operation.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      103: 2025-04-28T06:26:19.5411622Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      104: 2025-04-28 06:26:19.53 Server      Software Usage Metrics is disabled.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      105: 2025-04-28T06:26:19.5568033Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      106: 2025-04-28 06:26:19.55 spid45s     [1]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      107: 2025-04-28T06:26:19.5590180Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      108: 2025-04-28 06:26:19.55 spid45s     Starting up database 'master'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      109: 2025-04-28T06:26:19.5670322Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      110: 2025-04-28 06:26:19.56 Server      CLR version v4.0.30319 loaded.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      111: 2025-04-28T06:26:19.5743943Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      112: ForceFlush feature is enabled for log durability.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      113: 2025-04-28T06:26:19.6430957Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      114: 2025-04-28 06:26:19.63 spid45s     Converting database 'master' from version 927 to the current version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      115: 2025-04-28T06:26:19.6435893Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      116: 2025-04-28 06:26:19.63 spid45s     Database 'master' running the upgrade step from version 927 to version 928.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      117: 2025-04-28T06:26:19.6789668Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      118: 2025-04-28 06:26:19.67 spid45s     Database 'master' running the upgrade step from version 928 to version 929.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      119: 2025-04-28T06:26:19.6913578Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      120: 2025-04-28 06:26:19.68 spid45s     Database 'master' running the upgrade step from version 929 to version 930.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      121: 2025-04-28T06:26:19.7062042Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      122: 2025-04-28 06:26:19.70 spid45s     Database 'master' running the upgrade step from version 930 to version 931.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      123: 2025-04-28T06:26:19.7160663Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      124: 2025-04-28 06:26:19.71 spid45s     Database 'master' running the upgrade step from version 931 to version 932.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      125: 2025-04-28T06:26:19.7239320Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      126: 2025-04-28 06:26:19.71 spid45s     Database 'master' running the upgrade step from version 932 to version 933.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      127: 2025-04-28T06:26:19.7306717Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      128: 2025-04-28 06:26:19.72 spid45s     Database 'master' running the upgrade step from version 933 to version 934.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      129: 2025-04-28T06:26:19.7457350Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      130: 2025-04-28 06:26:19.74 spid45s     Database 'master' running the upgrade step from version 934 to version 935.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      131: 2025-04-28T06:26:19.7688788Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      132: 2025-04-28 06:26:19.76 spid45s     Database 'master' running the upgrade step from version 935 to version 936.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      133: 2025-04-28T06:26:19.7732081Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      134: 2025-04-28 06:26:19.77 Server      Common language runtime (CLR) functionality initialized.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      135: 2025-04-28T06:26:19.7773823Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      136: 2025-04-28 06:26:19.77 spid45s     Database 'master' running the upgrade step from version 936 to version 937.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      137: 2025-04-28T06:26:19.7896327Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      138: 2025-04-28 06:26:19.78 spid45s     Database 'master' running the upgrade step from version 937 to version 938.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      139: 2025-04-28T06:26:19.7931235Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      140: 2025-04-28 06:26:19.79 Server      External governance manager initialized
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      141: 2025-04-28T06:26:19.7965787Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      142: 2025-04-28 06:26:19.79 spid45s     Database 'master' running the upgrade step from version 938 to version 939.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      143: 2025-04-28T06:26:19.8028619Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      144: 2025-04-28 06:26:19.80 spid45s     Database 'master' running the upgrade step from version 939 to version 940.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      145: 2025-04-28T06:26:19.8077523Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      146: 2025-04-28 06:26:19.80 spid45s     Database 'master' running the upgrade step from version 940 to version 941.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      147: 2025-04-28T06:26:19.8145562Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      148: 2025-04-28 06:26:19.81 spid45s     Database 'master' running the upgrade step from version 941 to version 942.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      149: 2025-04-28T06:26:19.8200125Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      150: 2025-04-28 06:26:19.81 spid45s     Database 'master' running the upgrade step from version 942 to version 943.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      151: 2025-04-28T06:26:19.8438649Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      152: 2025-04-28 06:26:19.84 spid45s     Database 'master' running the upgrade step from version 943 to version 944.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      153: 2025-04-28T06:26:19.8494179Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      154: 2025-04-28 06:26:19.84 spid45s     Database 'master' running the upgrade step from version 944 to version 945.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      155: 2025-04-28T06:26:19.8587685Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      156: 2025-04-28 06:26:19.85 spid45s     Database 'master' running the upgrade step from version 945 to version 946.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      157: 2025-04-28T06:26:19.8663713Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      158: 2025-04-28 06:26:19.86 spid45s     Database 'master' running the upgrade step from version 946 to version 947.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      159: 2025-04-28T06:26:19.8735778Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      160: 2025-04-28 06:26:19.87 spid45s     Database 'master' running the upgrade step from version 947 to version 948.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      161: 2025-04-28T06:26:19.8783970Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      162: 2025-04-28 06:26:19.87 spid45s     Database 'master' running the upgrade step from version 948 to version 949.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      163: 2025-04-28T06:26:19.8855932Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      164: 2025-04-28 06:26:19.88 spid45s     Database 'master' running the upgrade step from version 949 to version 950.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      165: 2025-04-28T06:26:19.8919740Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      166: 2025-04-28 06:26:19.88 spid45s     Database 'master' running the upgrade step from version 950 to version 951.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      167: 2025-04-28T06:26:19.9035737Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      168: 2025-04-28 06:26:19.90 spid45s     Database 'master' running the upgrade step from version 951 to version 952.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      169: 2025-04-28T06:26:19.9082057Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      170: 2025-04-28 06:26:19.90 spid45s     Database 'master' running the upgrade step from version 952 to version 953.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      171: 2025-04-28T06:26:19.9154620Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      172: 2025-04-28 06:26:19.91 spid45s     Database 'master' running the upgrade step from version 953 to version 954.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      173: 2025-04-28T06:26:19.9222932Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      174: 2025-04-28 06:26:19.92 spid45s     Database 'master' running the upgrade step from version 954 to version 955.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      175: 2025-04-28T06:26:19.9282304Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      176: 2025-04-28 06:26:19.92 spid45s     Database 'master' running the upgrade step from version 955 to version 956.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      177: 2025-04-28T06:26:19.9459901Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      178: 2025-04-28 06:26:19.94 spid45s     Database 'master' running the upgrade step from version 956 to version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      179: 2025-04-28T06:26:20.0020231Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      180: 2025-04-28 06:26:19.99 spid48s     [32767]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      181: 2025-04-28T06:26:20.0036501Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      182: 2025-04-28 06:26:20.00 spid48s     Starting up database 'mssqlsystemresource'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      183: 2025-04-28T06:26:20.0072653Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      184: 2025-04-28 06:26:20.00 spid48s     The resource database build version is 16.00.4185. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      185: 2025-04-28T06:26:20.0160457Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      186: 2025-04-28 06:26:20.01 spid57s     Password policy update was successful.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      187: 2025-04-28T06:26:20.0253931Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      188: 2025-04-28 06:26:20.02 spid48s     [3]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      189: 2025-04-28T06:26:20.0262250Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      190: 2025-04-28 06:26:20.02 spid48s     Starting up database 'model'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      191: 2025-04-28T06:26:20.0350521Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      192: 2025-04-28 06:26:20.03 spid45s     [32762]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      193: 2025-04-28T06:26:20.0358643Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      194: 2025-04-28 06:26:20.03 spid45s     Starting up database 'model_replicatedmaster'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      195: 2025-04-28T06:26:20.0722474Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      196: 2025-04-28 06:26:20.06 spid48s     Converting database 'model' from version 927 to the current version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      197: 2025-04-28T06:26:20.0734752Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      198: 2025-04-28 06:26:20.07 spid48s     Database 'model' running the upgrade step from version 927 to version 928.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      199: 2025-04-28T06:26:20.1031053Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      200: 2025-04-28 06:26:20.10 spid48s     Database 'model' running the upgrade step from version 928 to version 929.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      201: 2025-04-28T06:26:20.1076277Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      202: 2025-04-28 06:26:20.10 spid45s     Converting database 'model_replicatedmaster' from version 927 to the current version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      203: 2025-04-28T06:26:20.1083755Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      204: 2025-04-28 06:26:20.10 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 927 to version 928.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      205: 2025-04-28T06:26:20.1156587Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      206: 2025-04-28 06:26:20.11 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 928 to version 929.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      207: 2025-04-28T06:26:20.1255040Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      208: 2025-04-28 06:26:20.12 spid48s     Database 'model' running the upgrade step from version 929 to version 930.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      209: 2025-04-28T06:26:20.1413362Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      210: 2025-04-28 06:26:20.13 spid48s     Database 'model' running the upgrade step from version 930 to version 931.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      211: 2025-04-28T06:26:20.1468169Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      212: 2025-04-28 06:26:20.14 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 929 to version 930.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      213: 2025-04-28T06:26:20.1476128Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      214: 2025-04-28 06:26:20.14 spid48s     Database 'model' running the upgrade step from version 931 to version 932.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      215: 2025-04-28T06:26:20.1553790Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      216: 2025-04-28 06:26:20.15 spid48s     Database 'model' running the upgrade step from version 932 to version 933.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      217: 2025-04-28T06:26:20.1574147Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      218: 2025-04-28 06:26:20.15 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 930 to version 931.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      219: 2025-04-28T06:26:20.1693703Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      220: 2025-04-28 06:26:20.16 spid48s     Database 'model' running the upgrade step from version 933 to version 934.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      221: 2025-04-28T06:26:20.1717876Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      222: 2025-04-28 06:26:20.16 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 931 to version 932.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      223: 2025-04-28T06:26:20.1777182Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      224: 2025-04-28 06:26:20.17 spid48s     Database 'model' running the upgrade step from version 934 to version 935.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      225: 2025-04-28T06:26:20.1805830Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      226: 2025-04-28 06:26:20.17 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 932 to version 933.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      227: 2025-04-28T06:26:20.1853847Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      228: 2025-04-28 06:26:20.18 spid48s     Database 'model' running the upgrade step from version 935 to version 936.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      229: 2025-04-28T06:26:20.1899842Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      230: 2025-04-28 06:26:20.18 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 933 to version 934.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      231: 2025-04-28T06:26:20.1946439Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      232: 2025-04-28 06:26:20.19 spid48s     Database 'model' running the upgrade step from version 936 to version 937.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      233: 2025-04-28T06:26:20.2007874Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      234: 2025-04-28 06:26:20.19 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 934 to version 935.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      235: 2025-04-28T06:26:20.2045389Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      236: 2025-04-28 06:26:20.20 spid48s     Database 'model' running the upgrade step from version 937 to version 938.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      237: 2025-04-28T06:26:20.2103236Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      238: 2025-04-28 06:26:20.20 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 935 to version 936.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      239: 2025-04-28T06:26:20.2133628Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      240: 2025-04-28 06:26:20.21 spid48s     Database 'model' running the upgrade step from version 938 to version 939.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      241: 2025-04-28T06:26:20.2194433Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      242: 2025-04-28 06:26:20.21 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 936 to version 937.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      243: 2025-04-28T06:26:20.2215240Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      244: 2025-04-28 06:26:20.21 spid48s     Database 'model' running the upgrade step from version 939 to version 940.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      245: 2025-04-28T06:26:20.2275364Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      246: 2025-04-28 06:26:20.22 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 937 to version 938.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      247: 2025-04-28T06:26:20.2283471Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      248: 2025-04-28 06:26:20.22 spid48s     Database 'model' running the upgrade step from version 940 to version 941.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      249: 2025-04-28T06:26:20.2355436Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      250: 2025-04-28 06:26:20.23 spid48s     Database 'model' running the upgrade step from version 941 to version 942.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      251: 2025-04-28T06:26:20.2362345Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      252: 2025-04-28 06:26:20.23 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 938 to version 939.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      253: 2025-04-28T06:26:20.2417042Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      254: 2025-04-28 06:26:20.23 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 939 to version 940.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      255: 2025-04-28T06:26:20.2426430Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      256: 2025-04-28 06:26:20.23 spid48s     Database 'model' running the upgrade step from version 942 to version 943.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      257: 2025-04-28T06:26:20.2488105Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      258: 2025-04-28 06:26:20.24 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 940 to version 941.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      259: 2025-04-28T06:26:20.2565400Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      260: 2025-04-28 06:26:20.25 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 941 to version 942.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      261: 2025-04-28T06:26:20.2573012Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      262: 2025-04-28 06:26:20.25 spid48s     Database 'model' running the upgrade step from version 943 to version 944.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      263: 2025-04-28T06:26:20.2635930Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      264: 2025-04-28 06:26:20.26 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 942 to version 943.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      265: 2025-04-28T06:26:20.2641742Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      266: 2025-04-28 06:26:20.26 spid48s     Database 'model' running the upgrade step from version 944 to version 945.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      267: 2025-04-28T06:26:20.2771106Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      268: 2025-04-28 06:26:20.27 spid48s     Database 'model' running the upgrade step from version 945 to version 946.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      269: 2025-04-28T06:26:20.2876701Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      270: 2025-04-28 06:26:20.28 spid48s     Database 'model' running the upgrade step from version 946 to version 947.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      271: 2025-04-28T06:26:20.2912699Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      272: 2025-04-28 06:26:20.28 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 943 to version 944.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      273: 2025-04-28T06:26:20.2957756Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      274: 2025-04-28 06:26:20.29 spid48s     Database 'model' running the upgrade step from version 947 to version 948.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      275: 2025-04-28T06:26:20.3026406Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      276: 2025-04-28 06:26:20.29 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 944 to version 945.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      277: 2025-04-28T06:26:20.3063783Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      278: 2025-04-28 06:26:20.30 spid48s     Database 'model' running the upgrade step from version 948 to version 949.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      279: 2025-04-28T06:26:20.3133165Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      280: 2025-04-28 06:26:20.31 spid48s     Database 'model' running the upgrade step from version 949 to version 950.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      281: 2025-04-28T06:26:20.3137682Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      282: 2025-04-28 06:26:20.31 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 945 to version 946.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      283: 2025-04-28T06:26:20.3206952Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      284: 2025-04-28 06:26:20.31 spid48s     Database 'model' running the upgrade step from version 950 to version 951.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      285: 2025-04-28T06:26:20.3216221Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      286: 2025-04-28 06:26:20.31 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 946 to version 947.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      287: 2025-04-28T06:26:20.3292442Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      288: 2025-04-28 06:26:20.32 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 947 to version 948.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      289: 2025-04-28T06:26:20.3339820Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      290: 2025-04-28 06:26:20.33 spid48s     Database 'model' running the upgrade step from version 951 to version 952.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      291: 2025-04-28T06:26:20.3409040Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      1: 2025-05-06T11:35:28.0470000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      1: 2025-05-06T11:35:28.0950000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      292: 2025-04-28 06:26:20.33 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 948 to version 949.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      293: 2025-04-28T06:26:20.3479406Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      2: 2025-05-06T11:35:28.0960000Z       Now listening on: https://localhost:53062
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      3: 2025-05-06T11:35:28.1030000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      4: 2025-05-06T11:35:28.1050000Z       Now listening on: http://localhost:53063
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      5: 2025-05-06T11:35:28.1280000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      6: 2025-05-06T11:35:28.1290000Z       Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      294: 2025-04-28 06:26:20.34 spid48s     Database 'model' running the upgrade step from version 952 to version 953.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      295: 2025-04-28T06:26:20.3615738Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      296: 2025-04-28 06:26:20.35 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 949 to version 950.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      2: 2025-05-06T11:35:28.0480000Z       Now listening on: https://localhost:53059
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      297: 2025-04-28T06:26:20.3671268Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      3: 2025-05-06T11:35:28.0540000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      7: 2025-05-06T11:35:28.1300000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      298: 2025-04-28 06:26:20.36 spid48s     Database 'model' running the upgrade step from version 953 to version 954.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      299: 2025-04-28T06:26:20.3807116Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      300: 2025-04-28 06:26:20.37 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 950 to version 951.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      301: 2025-04-28T06:26:20.3916870Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      8: 2025-05-06T11:35:28.1310000Z       Hosting environment: Development
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      9: 2025-05-06T11:35:28.1320000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      10: 2025-05-06T11:35:28.1330000Z       Content root path: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      302: 2025-04-28 06:26:20.38 spid48s     Database 'model' running the upgrade step from version 954 to version 955.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      303: 2025-04-28T06:26:20.4158193Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      4: 2025-05-06T11:35:28.0550000Z       Now listening on: http://localhost:53060
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      5: 2025-05-06T11:35:28.0890000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      304: 2025-04-28 06:26:20.41 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 951 to version 952.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      6: 2025-05-06T11:35:28.0900000Z       Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      305: 2025-04-28T06:26:20.4185102Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      7: 2025-05-06T11:35:28.0920000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      306: 2025-04-28 06:26:20.41 spid48s     Database 'model' running the upgrade step from version 955 to version 956.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      8: 2025-05-06T11:35:28.0940000Z       Hosting environment: Development
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      307: 2025-04-28T06:26:20.4407548Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      9: 2025-05-06T11:35:28.0940000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      10: 2025-05-06T11:35:28.0940000Z       Content root path: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.API
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      308: 2025-04-28 06:26:20.43 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 952 to version 953.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      309: 2025-04-28T06:26:20.4493051Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      310: 2025-04-28 06:26:20.44 spid48s     Database 'model' running the upgrade step from version 956 to version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      311: 2025-04-28T06:26:20.4766456Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      312: 2025-04-28 06:26:20.47 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 953 to version 954.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      313: 2025-04-28T06:26:20.4860241Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      314: 2025-04-28 06:26:20.48 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 954 to version 955.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      315: 2025-04-28T06:26:20.4952870Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      316: 2025-04-28 06:26:20.49 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 955 to version 956.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      317: 2025-04-28T06:26:20.5097318Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      318: 2025-04-28 06:26:20.50 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 956 to version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      319: 2025-04-28T06:26:20.5856837Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      320: 2025-04-28 06:26:20.58 spid45s     [32761]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      321: 2025-04-28T06:26:20.5867167Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      322: 2025-04-28 06:26:20.58 spid45s     Starting up database 'model_msdb'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      323: 2025-04-28T06:26:20.6297861Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      324: 2025-04-28 06:26:20.62 spid45s     Converting database 'model_msdb' from version 927 to the current version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      325: 2025-04-28T06:26:20.6304578Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      326: 2025-04-28 06:26:20.62 spid45s     Database 'model_msdb' running the upgrade step from version 927 to version 928.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      327: 2025-04-28T06:26:20.6356700Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      328: 2025-04-28 06:26:20.63 spid45s     Database 'model_msdb' running the upgrade step from version 928 to version 929.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      329: 2025-04-28T06:26:20.6591766Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      330: 2025-04-28 06:26:20.65 spid45s     Database 'model_msdb' running the upgrade step from version 929 to version 930.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      331: 2025-04-28T06:26:20.6760478Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      332: 2025-04-28 06:26:20.67 spid45s     Database 'model_msdb' running the upgrade step from version 930 to version 931.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      333: 2025-04-28T06:26:20.6865882Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      334: 2025-04-28 06:26:20.68 spid45s     Database 'model_msdb' running the upgrade step from version 931 to version 932.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      335: 2025-04-28T06:26:20.6933923Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      336: 2025-04-28 06:26:20.69 spid45s     Database 'model_msdb' running the upgrade step from version 932 to version 933.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      337: 2025-04-28T06:26:20.6996023Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      338: 2025-04-28 06:26:20.69 spid45s     Database 'model_msdb' running the upgrade step from version 933 to version 934.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      339: 2025-04-28T06:26:20.7053162Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      340: 2025-04-28 06:26:20.70 spid45s     Database 'model_msdb' running the upgrade step from version 934 to version 935.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      341: 2025-04-28T06:26:20.7154310Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      342: 2025-04-28 06:26:20.71 spid45s     Database 'model_msdb' running the upgrade step from version 935 to version 936.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      343: 2025-04-28T06:26:20.7205870Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      344: 2025-04-28 06:26:20.71 spid45s     Database 'model_msdb' running the upgrade step from version 936 to version 937.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      345: 2025-04-28T06:26:20.7259971Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      346: 2025-04-28 06:26:20.72 spid45s     Database 'model_msdb' running the upgrade step from version 937 to version 938.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      347: 2025-04-28T06:26:20.7321907Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      348: 2025-04-28 06:26:20.72 spid45s     Database 'model_msdb' running the upgrade step from version 938 to version 939.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      349: 2025-04-28T06:26:20.7381422Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      350: 2025-04-28 06:26:20.73 spid45s     Database 'model_msdb' running the upgrade step from version 939 to version 940.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      351: 2025-04-28T06:26:20.7439507Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      352: 2025-04-28 06:26:20.74 spid45s     Database 'model_msdb' running the upgrade step from version 940 to version 941.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      353: 2025-04-28T06:26:20.7488383Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      354: 2025-04-28 06:26:20.74 spid45s     Database 'model_msdb' running the upgrade step from version 941 to version 942.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      355: 2025-04-28T06:26:20.7552056Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      356: 2025-04-28 06:26:20.75 spid45s     Database 'model_msdb' running the upgrade step from version 942 to version 943.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      357: 2025-04-28T06:26:20.7758036Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      358: 2025-04-28 06:26:20.77 spid45s     Database 'model_msdb' running the upgrade step from version 943 to version 944.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      359: 2025-04-28T06:26:20.7816841Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      360: 2025-04-28 06:26:20.77 spid45s     Database 'model_msdb' running the upgrade step from version 944 to version 945.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      361: 2025-04-28T06:26:20.7948248Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      362: 2025-04-28 06:26:20.79 spid45s     Database 'model_msdb' running the upgrade step from version 945 to version 946.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      363: 2025-04-28T06:26:20.8000300Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      364: 2025-04-28 06:26:20.79 spid45s     Database 'model_msdb' running the upgrade step from version 946 to version 947.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      365: 2025-04-28T06:26:20.8053679Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      366: 2025-04-28 06:26:20.80 spid45s     Database 'model_msdb' running the upgrade step from version 947 to version 948.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      367: 2025-04-28T06:26:20.8067037Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      368: 2025-04-28 06:26:20.80 spid57s     A self-generated certificate was successfully loaded for encryption.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      369: 2025-04-28T06:26:20.8079942Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      370: 2025-04-28 06:26:20.80 spid57s     Server is listening on [ 'any' <ipv6> 1433] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      371: 2025-04-28T06:26:20.8086531Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      372: 2025-04-28 06:26:20.80 spid57s     Server is listening on [ 'any' <ipv4> 1433] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      373: 2025-04-28T06:26:20.8109278Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      374: 2025-04-28 06:26:20.80 Server      Server is listening on [ ::1 <ipv6> 1434] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      375: 2025-04-28T06:26:20.8113134Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      376: 2025-04-28 06:26:20.80 Server      Server is listening on [ 127.0.0.1 <ipv4> 1434] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      377: 2025-04-28T06:26:20.8122049Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      378: 2025-04-28 06:26:20.80 Server      Dedicated admin connection support was established for listening locally on port 1434.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      379: 2025-04-28T06:26:20.8911563Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      380: 2025-04-28 06:26:20.88 spid57s     Server is listening on [ ::1 <ipv6> 1431] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      381: 2025-04-28T06:26:20.8928948Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      382: 2025-04-28 06:26:20.88 spid57s     Server is listening on [ 127.0.0.1 <ipv4> 1431] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      383: 2025-04-28T06:26:20.8944544Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      384: 2025-04-28 06:26:20.88 spid57s     SQL Server is now ready for client connections. This is an informational message; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      385: 2025-04-28T06:26:20.8974690Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      386: 2025-04-28 06:26:20.89 spid45s     Database 'model_msdb' running the upgrade step from version 948 to version 949.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      387: 2025-04-28T06:26:20.9049265Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      388: 2025-04-28 06:26:20.90 spid45s     Database 'model_msdb' running the upgrade step from version 949 to version 950.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      389: 2025-04-28T06:26:20.9101024Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      390: 2025-04-28 06:26:20.90 spid45s     Database 'model_msdb' running the upgrade step from version 950 to version 951.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      391: 2025-04-28T06:26:20.9196338Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      392: 2025-04-28 06:26:20.91 spid45s     Database 'model_msdb' running the upgrade step from version 951 to version 952.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      393: 2025-04-28T06:26:20.9248054Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      394: 2025-04-28 06:26:20.92 spid45s     Database 'model_msdb' running the upgrade step from version 952 to version 953.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      395: 2025-04-28T06:26:20.9331652Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      396: 2025-04-28 06:26:20.92 spid45s     Database 'model_msdb' running the upgrade step from version 953 to version 954.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      397: 2025-04-28T06:26:20.9383479Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      398: 2025-04-28 06:26:20.93 spid45s     Database 'model_msdb' running the upgrade step from version 954 to version 955.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      399: 2025-04-28T06:26:20.9447762Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      400: 2025-04-28 06:26:20.94 spid45s     Database 'model_msdb' running the upgrade step from version 955 to version 956.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      401: 2025-04-28T06:26:20.9655540Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      402: 2025-04-28 06:26:20.96 spid45s     Database 'model_msdb' running the upgrade step from version 956 to version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      403: 2025-04-28T06:26:21.0062784Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      404: 2025-04-28 06:26:21.00 spid45s     Resource governor reconfiguration succeeded.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      405: 2025-04-28T06:26:21.0067917Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      406: 2025-04-28 06:26:21.00 spid59s     Attribute synchronization initialized
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      407: 2025-04-28T06:26:21.0071801Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      408: 2025-04-28 06:26:21.00 spid45s     SQL Server Audit is starting the audits. This is an informational message. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      409: 2025-04-28T06:26:21.0089161Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      410: 2025-04-28 06:26:21.00 spid59s     Attribute synchronization manager initialized
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      411: 2025-04-28T06:26:21.0098749Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      412: 2025-04-28 06:26:21.00 spid45s     SQL Server Audit has started the audits. This is an informational message. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      413: 2025-04-28T06:26:21.0305039Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      414: 2025-04-28 06:26:21.02 spid45s     SQL Trace ID 1 was started by login "sa".
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      415: 2025-04-28T06:26:21.0368517Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      416: 2025-04-28 06:26:21.03 spid45s     Server name is 'bdfbf7582fa2'. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      417: 2025-04-28T06:26:21.0549566Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      418: 2025-04-28 06:26:21.05 spid65s     Always On: The availability replica manager is starting. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      419: 2025-04-28T06:26:21.0563502Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      420: 2025-04-28 06:26:21.05 spid48s     Clearing tempdb database.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      421: 2025-04-28T06:26:21.0574924Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      422: 2025-04-28 06:26:21.05 spid65s     Always On: The availability replica manager is waiting for the instance of SQL Server to allow client connections. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      423: 2025-04-28T06:26:21.0584947Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      424: 2025-04-28 06:26:21.05 spid67s     [4]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      425: 2025-04-28T06:26:21.0594888Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      426: 2025-04-28 06:26:21.05 spid67s     Starting up database 'msdb'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      427: 2025-04-28T06:26:21.1183102Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      428: 2025-04-28 06:26:21.11 spid67s     Converting database 'msdb' from version 927 to the current version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      429: 2025-04-28T06:26:21.1190414Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      430: 2025-04-28 06:26:21.11 spid67s     Database 'msdb' running the upgrade step from version 927 to version 928.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      431: 2025-04-28T06:26:21.1541756Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      432: 2025-04-28 06:26:21.14 spid67s     Database 'msdb' running the upgrade step from version 928 to version 929.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      433: 2025-04-28T06:26:21.1573284Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      434: 2025-04-28 06:26:21.15 spid48s     [2]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      435: 2025-04-28T06:26:21.1579949Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      436: 2025-04-28 06:26:21.15 spid48s     Starting up database 'tempdb'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      437: 2025-04-28T06:26:21.1781721Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      438: 2025-04-28 06:26:21.17 spid67s     Database 'msdb' running the upgrade step from version 929 to version 930.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      439: 2025-04-28T06:26:21.1886272Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      440: 2025-04-28 06:26:21.18 spid67s     Database 'msdb' running the upgrade step from version 930 to version 931.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      441: 2025-04-28T06:26:21.1913869Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      442: 2025-04-28 06:26:21.18 spid48s     The tempdb database has 1 data file(s).
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      443: 2025-04-28T06:26:21.1952998Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      444: 2025-04-28 06:26:21.19 spid65s     The Service Broker endpoint is in disabled or stopped state.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      445: 2025-04-28T06:26:21.1960434Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      446: 2025-04-28 06:26:21.19 spid65s     The Database Mirroring endpoint is in disabled or stopped state.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      447: 2025-04-28T06:26:21.2033349Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      448: 2025-04-28 06:26:21.19 spid65s     Service Broker manager has started.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      449: 2025-04-28T06:26:21.2119786Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      450: 2025-04-28 06:26:21.20 spid67s     Database 'msdb' running the upgrade step from version 931 to version 932.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      451: 2025-04-28T06:26:21.2183830Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      452: 2025-04-28 06:26:21.21 spid67s     Database 'msdb' running the upgrade step from version 932 to version 933.
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET http://localhost:53055/health
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      453: 2025-04-28T06:26:21.2255084Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      454: 2025-04-28 06:26:21.22 spid67s     Database 'msdb' running the upgrade step from version 933 to version 934.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      455: 2025-04-28T06:26:21.2307979Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      456: 2025-04-28 06:26:21.22 spid67s     Database 'msdb' running the upgrade step from version 934 to version 935.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      457: 2025-04-28T06:26:21.2363008Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      458: 2025-04-28 06:26:21.23 spid67s     Database 'msdb' running the upgrade step from version 935 to version 936.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      459: 2025-04-28T06:26:21.2420306Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      460: 2025-04-28 06:26:21.23 spid67s     Database 'msdb' running the upgrade step from version 936 to version 937.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      461: 2025-04-28T06:26:21.2482211Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      462: 2025-04-28 06:26:21.24 spid67s     Database 'msdb' running the upgrade step from version 937 to version 938.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      463: 2025-04-28T06:26:21.2550935Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      464: 2025-04-28 06:26:21.25 spid67s     Database 'msdb' running the upgrade step from version 938 to version 939.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      465: 2025-04-28T06:26:21.2616842Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      466: 2025-04-28 06:26:21.25 spid67s     Database 'msdb' running the upgrade step from version 939 to version 940.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      467: 2025-04-28T06:26:21.2674400Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      468: 2025-04-28 06:26:21.26 spid67s     Database 'msdb' running the upgrade step from version 940 to version 941.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      469: 2025-04-28T06:26:21.2743021Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      470: 2025-04-28 06:26:21.27 spid67s     Database 'msdb' running the upgrade step from version 941 to version 942.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      471: 2025-04-28T06:26:21.2791533Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      472: 2025-04-28 06:26:21.27 spid67s     Database 'msdb' running the upgrade step from version 942 to version 943.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      473: 2025-04-28T06:26:21.2995603Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      474: 2025-04-28 06:26:21.29 spid67s     Database 'msdb' running the upgrade step from version 943 to version 944.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      475: 2025-04-28T06:26:21.3053165Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      476: 2025-04-28 06:26:21.30 spid67s     Database 'msdb' running the upgrade step from version 944 to version 945.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      477: 2025-04-28T06:26:21.3192895Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      478: 2025-04-28 06:26:21.31 spid67s     Database 'msdb' running the upgrade step from version 945 to version 946.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      479: 2025-04-28T06:26:21.3251089Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      480: 2025-04-28 06:26:21.32 spid67s     Database 'msdb' running the upgrade step from version 946 to version 947.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      481: 2025-04-28T06:26:21.3343235Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      482: 2025-04-28 06:26:21.33 spid67s     Database 'msdb' running the upgrade step from version 947 to version 948.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      483: 2025-04-28T06:26:21.3398068Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      484: 2025-04-28 06:26:21.33 spid67s     Database 'msdb' running the upgrade step from version 948 to version 949.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      485: 2025-04-28T06:26:21.3469211Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      486: 2025-04-28 06:26:21.34 spid67s     Database 'msdb' running the upgrade step from version 949 to version 950.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      487: 2025-04-28T06:26:21.3536423Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      488: 2025-04-28 06:26:21.34 spid67s     Database 'msdb' running the upgrade step from version 950 to version 951.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      489: 2025-04-28T06:26:21.3648668Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      490: 2025-04-28 06:26:21.36 spid67s     Database 'msdb' running the upgrade step from version 951 to version 952.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      491: 2025-04-28T06:26:21.3703120Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      492: 2025-04-28 06:26:21.36 spid67s     Database 'msdb' running the upgrade step from version 952 to version 953.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      493: 2025-04-28T06:26:21.3866105Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      494: 2025-04-28 06:26:21.38 spid67s     Database 'msdb' running the upgrade step from version 953 to version 954.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      495: 2025-04-28T06:26:21.3940260Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      496: 2025-04-28 06:26:21.38 spid67s     Database 'msdb' running the upgrade step from version 954 to version 955.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      497: 2025-04-28T06:26:21.3996158Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      498: 2025-04-28 06:26:21.39 spid67s     Database 'msdb' running the upgrade step from version 955 to version 956.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      499: 2025-04-28T06:26:21.4160414Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      500: 2025-04-28 06:26:21.41 spid67s     Database 'msdb' running the upgrade step from version 956 to version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      501: 2025-04-28T06:26:21.4563934Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      502: 2025-04-28 06:26:21.45 spid45s     Recovery is complete. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      503: 2025-04-28T06:26:21.4676486Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      504: 2025-04-28 06:26:21.46 spid55s     The default language (LCID 0) has been set for engine and full-text services.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      505: 2025-04-28T06:26:21.6827483Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      506: 2025-04-28 06:26:21.67 spid55s     The tempdb database has 8 data file(s).
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      507: 2025-04-28T06:26:22.1878751Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      508: 2025-04-28 06:26:22.18 Logon       Error: 18456, Severity: 14, State: 38.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      509: 2025-04-28T06:26:22.1883790Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      510: 2025-04-28 06:26:22.18 Logon       Login failed for user 'sa'. Reason: Failed to open the explicitly specified database 'database'. [CLIENT: 172.17.0.1]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      511: 2025-04-28T06:26:22.4105191Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      512: 2025-04-28 06:26:22.40 spid53      [5]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      513: 2025-04-28T06:26:22.4112677Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      514: 2025-04-28 06:26:22.41 spid53      Starting up database 'database'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      515: 2025-04-28T06:26:22.4119831Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      516: 2025-04-28 06:26:22.41 spid53      RemoveStaleDbEntries: Cleanup of stale DB entries called for database ID: [5]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      517: 2025-04-28T06:26:22.4127460Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      518: 2025-04-28 06:26:22.41 spid53      RemoveStaleDbEntries: Cleanup of stale DB entries skipped because master db is not memory optimized. DbId: 5.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      519: 2025-04-28T06:26:22.4302975Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      520: 2025-04-28 06:26:22.42 spid53      Parallel redo is started for database 'database' with worker pool size [11].
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      521: 2025-04-28T06:26:22.4436292Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      522: 2025-04-28 06:26:22.44 spid53      Parallel redo is shutdown for database 'database' with worker pool size [11].
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      523: 2025-04-28T06:31:39.4172135Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      524: 2025-04-28 06:31:39.41 spid79      Attempting to load library 'xplog70.dll' into memory. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      525: 2025-04-28T06:31:39.4312792Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      526: 2025-04-28 06:31:39.43 spid79      Using 'xplog70.dll' version '2022.160.4185' to execute extended stored procedure 'xp_msver'. This is an informational message only; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      527: 2025-04-28T06:36:36.1843120Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      528: 2025-04-28 06:36:36.18 spid79      Using 'dbghelp.dll' version '4.0.5'
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      529: 2025-04-28T07:21:20.4898024Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      530: 2025-04-28 07:21:20.48 spid59      Attempting to load library 'xpsqlbot.dll' into memory. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      531: 2025-04-28T07:21:20.4933296Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      532: 2025-04-28 07:21:20.48 spid59      Using 'xpsqlbot.dll' version '2022.160.4185' to execute extended stored procedure 'xp_qv'. This is an informational message only; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      533: 2025-04-28T07:29:58.2938538Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      534: 2025-04-28 07:29:58.29 spid15s     [DevOpsSnapshotTelemetryTask] Evaluating the background task.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      535: 2025-05-06T09:18:03.7454056Z SQL Server 2022 will run as non-root by default.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      536: 2025-05-06T09:18:03.7457342Z This container is running as user mssql.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      537: 2025-05-06T09:18:03.7457392Z Your master database file is owned by mssql.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      538: 2025-05-06T09:18:03.7457408Z To learn more visit https://go.microsoft.com/fwlink/?linkid=2099216.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      539: 2025-05-06T09:18:06.8419450Z 2025-05-06 09:18:06.83 Server      Setup step is FORCE copying system data file 'C:\templatedata\model_replicatedmaster.mdf' to '/var/opt/mssql/data/model_replicatedmaster.mdf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      540: 2025-05-06T09:18:06.8500687Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      541: 2025-05-06 09:18:06.84 Server      Setup step is FORCE copying system data file 'C:\templatedata\model_replicatedmaster.ldf' to '/var/opt/mssql/data/model_replicatedmaster.ldf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      542: 2025-05-06T09:18:06.8536923Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      543: 2025-05-06 09:18:06.85 Server      Setup step is FORCE copying system data file 'C:\templatedata\model_msdbdata.mdf' to '/var/opt/mssql/data/model_msdbdata.mdf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      544: 2025-05-06T09:18:06.8694711Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      545: 2025-05-06 09:18:06.86 Server      Setup step is FORCE copying system data file 'C:\templatedata\model_msdblog.ldf' to '/var/opt/mssql/data/model_msdblog.ldf'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      546: 2025-05-06T09:18:06.8868357Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      547: 2025-05-06 09:18:06.88 Server      Microsoft SQL Server 2022 (RTM-CU18) (KB5050771) - 16.0.4185.3 (X64) 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      548: 2025-05-06T09:18:06.8868649Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      549: 	Feb 28 2025 18:24:49 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      550: 2025-05-06T09:18:06.8870391Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      551: 	Copyright (C) 2022 Microsoft Corporation
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      552: 2025-05-06T09:18:06.8875070Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      553: 	Developer Edition (64-bit) on Linux (Ubuntu 22.04.5 LTS) <X64>
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      554: 2025-05-06T09:18:06.8879421Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      555: 2025-05-06 09:18:06.88 Server      UTC adjustment: 0:00
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      556: 2025-05-06T09:18:06.8883839Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      557: 2025-05-06 09:18:06.88 Server      (c) Microsoft Corporation.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      558: 2025-05-06T09:18:06.8890161Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      559: 2025-05-06 09:18:06.88 Server      All rights reserved.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      560: 2025-05-06T09:18:06.8891024Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      561: 2025-05-06 09:18:06.88 Server      Server process ID is 592.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      562: 2025-05-06T09:18:06.8899670Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      563: 2025-05-06 09:18:06.88 Server      Logging SQL Server messages in file '/var/opt/mssql/log/errorlog'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      564: 2025-05-06T09:18:06.8903739Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      565: 2025-05-06 09:18:06.88 Server      Registry startup parameters: 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      566: 2025-05-06T09:18:06.8906008Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      567: 	 -d /var/opt/mssql/data/master.mdf
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      568: 2025-05-06T09:18:06.8909392Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      569: 	 -l /var/opt/mssql/data/mastlog.ldf
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      570: 2025-05-06T09:18:06.8910085Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      571: 	 -e /var/opt/mssql/log/errorlog
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      572: 2025-05-06T09:18:06.8933049Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      573: 2025-05-06 09:18:06.89 Server      SQL Server detected 1 sockets with 11 cores per socket and 22 logical processors per socket, 22 total logical processors; using 22 logical processors based on SQL Server licensing. This is an informational message; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      574: 2025-05-06T09:18:06.8943731Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      575: 2025-05-06 09:18:06.89 Server      SQL Server is starting at normal priority base (=7). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      576: 2025-05-06T09:18:06.8954770Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      577: 2025-05-06 09:18:06.89 Server      Detected 12579 MB of RAM, 11737 MB of available memory, 11737 MB of available page file. This is an informational message; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      578: 2025-05-06T09:18:06.8961612Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      579: 2025-05-06 09:18:06.89 Server      Using conventional memory in the memory manager.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      580: 2025-05-06T09:18:06.8965247Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      581: 2025-05-06 09:18:06.89 Server      Detected pause instruction latency: 130 cycles.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      582: 2025-05-06T09:18:06.8980731Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      583: 2025-05-06 09:18:06.89 Server      SQL Server detected the following NUMA node configuration (NUMA Node number 0, Processor Group number 0, CPU Mask 0x00000000003fffff).
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      584: 2025-05-06T09:18:06.9117676Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      585: 2025-05-06 09:18:06.91 Server      Page exclusion bitmap is enabled.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      586: 2025-05-06T09:18:06.9622056Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      587: 2025-05-06 09:18:06.96 Server      Buffer pool extension is not supported on Linux platform.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      588: 2025-05-06T09:18:06.9711256Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      589: 2025-05-06 09:18:06.96 Server      Buffer Pool: Allocating 16777216 bytes for 1876772 hashPages.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      590: 2025-05-06T09:18:07.0235339Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      591: 2025-05-06 09:18:07.02 Server      Automatic soft-NUMA was enabled because SQL Server has detected hardware NUMA nodes with greater than 8 physical cores.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      592: 2025-05-06T09:18:07.0993714Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      593: 2025-05-06 09:18:07.09 Server      Buffer pool extension is already disabled. No action is necessary.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      594: 2025-05-06T09:18:07.4097294Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      595: 2025-05-06 09:18:07.40 Server      Installing Client TLS certificates to the store.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      596: 2025-05-06T09:18:07.4160970Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      597: 2025-05-06 09:18:07.41 Server      CPU vectorization level(s) detected:  SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 POPCNT BMI1 BMI2
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      598: 2025-05-06T09:18:07.4682633Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      599: 2025-05-06 09:18:07.46 Server      Successfully initialized the TLS configuration. Allowed TLS protocol versions are ['1.0 1.1 1.2']. Allowed TLS ciphers are ['ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-ECDSA-AES128-SHA:AES256-GCM-SHA384:AES128-GCM-SHA256:AES256-SHA256:AES128-SHA256:AES256-SHA:AES128-SHA:!DHE-RSA-AES256-GCM-SHA384:!DHE-RSA-AES128-GCM-SHA256:!DHE-RSA-AES256-SHA:!DHE-RSA-AES128-SHA'].
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      600: 2025-05-06T09:18:07.4853937Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      601: 2025-05-06 09:18:07.48 Server      Query Store settings initialized with enabled = 1, 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      602: 2025-05-06T09:18:07.4967145Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      603: 2025-05-06 09:18:07.49 Server      The maximum number of dedicated administrator connections for this instance is '1'
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      604: 2025-05-06T09:18:07.5026591Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      605: 2025-05-06 09:18:07.49 Server      Node configuration: node 0: CPU mask: 0x0000000000155555:0 Active CPU mask: 0x0000000000155555:0. This message provides a description of the NUMA configuration for this computer. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      606: 2025-05-06T09:18:07.5048067Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      607: 2025-05-06 09:18:07.50 Server      Node configuration: node 1: CPU mask: 0x00000000002aaaaa:0 Active CPU mask: 0x00000000002aaaaa:0. This message provides a description of the NUMA configuration for this computer. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      608: 2025-05-06T09:18:07.5284316Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      609: 2025-05-06 09:18:07.52 Server      Using dynamic lock allocation.  Initial allocation of 2500 Lock blocks and 5000 Lock Owner blocks per node.  This is an informational message only.  No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      610: 2025-05-06T09:18:07.5294224Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      611: 2025-05-06 09:18:07.52 Server      Lock partitioning is enabled.  This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      612: 2025-05-06T09:18:07.5658168Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      613: 2025-05-06 09:18:07.56 Server      In-Memory OLTP initialized on standard machine.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      614: 2025-05-06T09:18:07.5825566Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      615: 2025-05-06 09:18:07.58 Server      [INFO] Created Extended Events session 'hkenginexesession'
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      616: 2025-05-06T09:18:07.5865955Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      617: 2025-05-06 09:18:07.58 Server      Database Instant File Initialization: enabled. For security and performance considerations see the topic 'Database Instant File Initialization' in SQL Server Books Online. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      618: 2025-05-06T09:18:07.5937796Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      619: ForceFlush is enabled for this instance. 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      620: 2025-05-06T09:18:07.5996960Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      621: 2025-05-06 09:18:07.59 Server      Total Log Writer threads: 4. This is an informational message; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      622: 2025-05-06T09:18:07.6151030Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      623: 2025-05-06 09:18:07.61 Server      CLR version v4.0.30319 loaded.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      624: 2025-05-06T09:18:07.6210937Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      625: 2025-05-06 09:18:07.61 Server      clwb is selected for pmem flush operation.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      626: 2025-05-06T09:18:07.6224196Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      627: 2025-05-06 09:18:07.62 Server      Software Usage Metrics is disabled.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      628: 2025-05-06T09:18:07.6493157Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      629: 2025-05-06 09:18:07.64 spid45s     [1]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      630: 2025-05-06T09:18:07.6504628Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      631: 2025-05-06 09:18:07.64 spid45s     Starting up database 'master'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      632: 2025-05-06T09:18:07.6684937Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      633: ForceFlush feature is enabled for log durability.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      634: 2025-05-06T09:18:07.6961094Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      635: 2025-05-06 09:18:07.69 spid45s     62 transactions rolled forward in database 'master' (1:0). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      636: 2025-05-06T09:18:07.7058393Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      637: 2025-05-06 09:18:07.70 spid45s     0 transactions rolled back in database 'master' (1:0). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      638: 2025-05-06T09:18:07.7069989Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      639: 2025-05-06 09:18:07.70 spid45s     Recovery is writing a checkpoint in database 'master' (1). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      640: 2025-05-06T09:18:07.7662493Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      641: 2025-05-06 09:18:07.76 spid45s     [32762]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      642: 2025-05-06T09:18:07.7691001Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      643: 2025-05-06 09:18:07.76 spid45s     Starting up database 'model_replicatedmaster'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      644: 2025-05-06T09:18:07.7707380Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      645: 2025-05-06 09:18:07.76 spid48s     [32767]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      646: 2025-05-06T09:18:07.7711954Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      647: 2025-05-06 09:18:07.76 spid48s     Starting up database 'mssqlsystemresource'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      648: 2025-05-06T09:18:07.7751272Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      649: 2025-05-06 09:18:07.77 spid48s     The resource database build version is 16.00.4185. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      650: 2025-05-06T09:18:07.8057051Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      651: 2025-05-06 09:18:07.80 spid48s     [3]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      652: 2025-05-06T09:18:07.8064925Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      653: 2025-05-06 09:18:07.80 spid48s     Starting up database 'model'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      654: 2025-05-06T09:18:07.8358437Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      655: 2025-05-06 09:18:07.83 spid48s     1 transactions rolled forward in database 'model' (3:0). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      656: 2025-05-06T09:18:07.8458741Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      657: 2025-05-06 09:18:07.84 spid45s     Converting database 'model_replicatedmaster' from version 927 to the current version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      658: 2025-05-06T09:18:07.8471982Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      659: 2025-05-06 09:18:07.84 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 927 to version 928.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      660: 2025-05-06T09:18:07.8566300Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      661: 2025-05-06 09:18:07.85 Server      Common language runtime (CLR) functionality initialized.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      662: 2025-05-06T09:18:07.8667435Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      663: 2025-05-06 09:18:07.86 spid48s     0 transactions rolled back in database 'model' (3:0). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      664: 2025-05-06T09:18:07.8676586Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      665: 2025-05-06 09:18:07.86 spid48s     Recovery is writing a checkpoint in database 'model' (3). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      666: 2025-05-06T09:18:07.8768984Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      667: 2025-05-06 09:18:07.87 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 928 to version 929.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      668: 2025-05-06T09:18:07.8981049Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      669: 2025-05-06 09:18:07.89 Server      External governance manager initialized
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      670: 2025-05-06T09:18:07.9107710Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      671: 2025-05-06 09:18:07.90 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 929 to version 930.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      672: 2025-05-06T09:18:07.9230177Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      673: 2025-05-06 09:18:07.92 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 930 to version 931.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      674: 2025-05-06T09:18:07.9308946Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      675: 2025-05-06 09:18:07.92 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 931 to version 932.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      676: 2025-05-06T09:18:07.9381510Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      677: 2025-05-06 09:18:07.93 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 932 to version 933.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      678: 2025-05-06T09:18:07.9458957Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      679: 2025-05-06 09:18:07.94 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 933 to version 934.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      680: 2025-05-06T09:18:07.9520779Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      681: 2025-05-06 09:18:07.95 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 934 to version 935.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      682: 2025-05-06T09:18:07.9594966Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      683: 2025-05-06 09:18:07.95 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 935 to version 936.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      684: 2025-05-06T09:18:07.9606726Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      685: 2025-05-06 09:18:07.95 spid56s     A self-generated certificate was successfully loaded for encryption.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      686: 2025-05-06T09:18:07.9612451Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      687: 2025-05-06 09:18:07.95 spid56s     Server is listening on [ 'any' <ipv6> 1433] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      688: 2025-05-06T09:18:07.9619659Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      689: 2025-05-06 09:18:07.96 spid56s     Server is listening on [ 'any' <ipv4> 1433] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      690: 2025-05-06T09:18:07.9641875Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      691: 2025-05-06 09:18:07.96 Server      Server is listening on [ ::1 <ipv6> 1434] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      692: 2025-05-06T09:18:07.9653938Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      693: 2025-05-06 09:18:07.96 Server      Server is listening on [ 127.0.0.1 <ipv4> 1434] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      694: 2025-05-06T09:18:07.9660604Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      695: 2025-05-06 09:18:07.96 Server      Dedicated admin connection support was established for listening locally on port 1434.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      696: 2025-05-06T09:18:07.9690606Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      697: 2025-05-06 09:18:07.96 spid56s     Server is listening on [ ::1 <ipv6> 1431] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      698: 2025-05-06T09:18:07.9699745Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      699: 2025-05-06 09:18:07.96 spid56s     Server is listening on [ 127.0.0.1 <ipv4> 1431] accept sockets 1.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      700: 2025-05-06T09:18:07.9710573Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      701: 2025-05-06 09:18:07.96 spid56s     SQL Server is now ready for client connections. This is an informational message; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      702: 2025-05-06T09:18:07.9725601Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      703: 2025-05-06 09:18:07.97 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 936 to version 937.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      704: 2025-05-06T09:18:07.9796627Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      705: 2025-05-06 09:18:07.97 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 937 to version 938.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      706: 2025-05-06T09:18:07.9858630Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      707: 2025-05-06 09:18:07.98 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 938 to version 939.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      708: 2025-05-06T09:18:07.9918408Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      709: 2025-05-06 09:18:07.98 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 939 to version 940.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      710: 2025-05-06T09:18:07.9982652Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      711: 2025-05-06 09:18:07.99 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 940 to version 941.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      712: 2025-05-06T09:18:08.0033499Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      713: 2025-05-06 09:18:08.00 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 941 to version 942.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      714: 2025-05-06T09:18:08.0085952Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      715: 2025-05-06 09:18:08.00 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 942 to version 943.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      716: 2025-05-06T09:18:08.0323322Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      717: 2025-05-06 09:18:08.03 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 943 to version 944.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      718: 2025-05-06T09:18:08.0390808Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      719: 2025-05-06 09:18:08.03 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 944 to version 945.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      720: 2025-05-06T09:18:08.0492647Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      721: 2025-05-06 09:18:08.04 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 945 to version 946.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      722: 2025-05-06T09:18:08.0542975Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      723: 2025-05-06 09:18:08.05 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 946 to version 947.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      724: 2025-05-06T09:18:08.0598952Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      725: 2025-05-06 09:18:08.05 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 947 to version 948.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      726: 2025-05-06T09:18:08.0655922Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      727: 2025-05-06 09:18:08.06 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 948 to version 949.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      728: 2025-05-06T09:18:08.0717263Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      729: 2025-05-06 09:18:08.07 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 949 to version 950.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      730: 2025-05-06T09:18:08.0782506Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      731: 2025-05-06 09:18:08.07 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 950 to version 951.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      732: 2025-05-06T09:18:08.0891988Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      733: 2025-05-06 09:18:08.08 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 951 to version 952.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      734: 2025-05-06T09:18:08.0940328Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      735: 2025-05-06 09:18:08.09 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 952 to version 953.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      736: 2025-05-06T09:18:08.1102519Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      737: 2025-05-06 09:18:08.10 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 953 to version 954.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      738: 2025-05-06T09:18:08.1166874Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      739: 2025-05-06 09:18:08.11 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 954 to version 955.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      740: 2025-05-06T09:18:08.1216320Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      741: 2025-05-06 09:18:08.11 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 955 to version 956.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      742: 2025-05-06T09:18:08.1338515Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      743: 2025-05-06 09:18:08.13 spid45s     Database 'model_replicatedmaster' running the upgrade step from version 956 to version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      744: 2025-05-06T09:18:08.1609645Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      745: 2025-05-06 09:18:08.15 spid45s     [32761]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      746: 2025-05-06T09:18:08.1618180Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      747: 2025-05-06 09:18:08.16 spid45s     Starting up database 'model_msdb'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      748: 2025-05-06T09:18:08.2603102Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      749: 2025-05-06 09:18:08.25 spid45s     Converting database 'model_msdb' from version 927 to the current version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      750: 2025-05-06T09:18:08.2609975Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      751: 2025-05-06 09:18:08.25 spid45s     Database 'model_msdb' running the upgrade step from version 927 to version 928.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      752: 2025-05-06T09:18:08.2906024Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      753: 2025-05-06 09:18:08.28 spid45s     Database 'model_msdb' running the upgrade step from version 928 to version 929.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      754: 2025-05-06T09:18:08.3141188Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      755: 2025-05-06 09:18:08.31 spid45s     Database 'model_msdb' running the upgrade step from version 929 to version 930.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      756: 2025-05-06T09:18:08.3233407Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      757: 2025-05-06 09:18:08.32 spid45s     Database 'model_msdb' running the upgrade step from version 930 to version 931.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      758: 2025-05-06T09:18:08.3334548Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      759: 2025-05-06 09:18:08.33 spid45s     Database 'model_msdb' running the upgrade step from version 931 to version 932.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      760: 2025-05-06T09:18:08.3389363Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      761: 2025-05-06 09:18:08.33 spid45s     Database 'model_msdb' running the upgrade step from version 932 to version 933.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      762: 2025-05-06T09:18:08.3455966Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      763: 2025-05-06 09:18:08.34 spid45s     Database 'model_msdb' running the upgrade step from version 933 to version 934.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      764: 2025-05-06T09:18:08.3510806Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      765: 2025-05-06 09:18:08.34 spid45s     Database 'model_msdb' running the upgrade step from version 934 to version 935.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      766: 2025-05-06T09:18:08.3591300Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      767: 2025-05-06 09:18:08.35 spid45s     Database 'model_msdb' running the upgrade step from version 935 to version 936.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      768: 2025-05-06T09:18:08.3642253Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      769: 2025-05-06 09:18:08.36 spid45s     Database 'model_msdb' running the upgrade step from version 936 to version 937.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      770: 2025-05-06T09:18:08.3690256Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      771: 2025-05-06 09:18:08.36 spid45s     Database 'model_msdb' running the upgrade step from version 937 to version 938.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      772: 2025-05-06T09:18:08.3755712Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      773: 2025-05-06 09:18:08.37 spid45s     Database 'model_msdb' running the upgrade step from version 938 to version 939.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      774: 2025-05-06T09:18:08.3812313Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      775: 2025-05-06 09:18:08.37 spid45s     Database 'model_msdb' running the upgrade step from version 939 to version 940.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      776: 2025-05-06T09:18:08.3892521Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      777: 2025-05-06 09:18:08.38 spid45s     Database 'model_msdb' running the upgrade step from version 940 to version 941.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      778: 2025-05-06T09:18:08.3963715Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      779: 2025-05-06 09:18:08.39 spid45s     Database 'model_msdb' running the upgrade step from version 941 to version 942.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      780: 2025-05-06T09:18:08.4020761Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      781: 2025-05-06 09:18:08.40 spid45s     Database 'model_msdb' running the upgrade step from version 942 to version 943.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      782: 2025-05-06T09:18:08.4223792Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      783: 2025-05-06 09:18:08.42 spid45s     Database 'model_msdb' running the upgrade step from version 943 to version 944.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      784: 2025-05-06T09:18:08.4291932Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      785: 2025-05-06 09:18:08.42 spid45s     Database 'model_msdb' running the upgrade step from version 944 to version 945.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      786: 2025-05-06T09:18:08.4437968Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      787: 2025-05-06 09:18:08.44 spid45s     Database 'model_msdb' running the upgrade step from version 945 to version 946.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      788: 2025-05-06T09:18:08.4490334Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      789: 2025-05-06 09:18:08.44 spid45s     Database 'model_msdb' running the upgrade step from version 946 to version 947.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      790: 2025-05-06T09:18:08.4542993Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      791: 2025-05-06 09:18:08.45 spid45s     Database 'model_msdb' running the upgrade step from version 947 to version 948.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      792: 2025-05-06T09:18:08.4598918Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      793: 2025-05-06 09:18:08.45 spid45s     Database 'model_msdb' running the upgrade step from version 948 to version 949.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      794: 2025-05-06T09:18:08.4679504Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      795: 2025-05-06 09:18:08.46 spid45s     Database 'model_msdb' running the upgrade step from version 949 to version 950.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      796: 2025-05-06T09:18:08.4732754Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      797: 2025-05-06 09:18:08.47 spid45s     Database 'model_msdb' running the upgrade step from version 950 to version 951.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      798: 2025-05-06T09:18:08.4850429Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      799: 2025-05-06 09:18:08.48 spid45s     Database 'model_msdb' running the upgrade step from version 951 to version 952.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      800: 2025-05-06T09:18:08.4897317Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      801: 2025-05-06 09:18:08.48 spid45s     Database 'model_msdb' running the upgrade step from version 952 to version 953.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      802: 2025-05-06T09:18:08.4986550Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      803: 2025-05-06 09:18:08.49 spid45s     Database 'model_msdb' running the upgrade step from version 953 to version 954.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      804: 2025-05-06T09:18:08.5036930Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      805: 2025-05-06 09:18:08.50 spid45s     Database 'model_msdb' running the upgrade step from version 954 to version 955.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      806: 2025-05-06T09:18:08.5087869Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      807: 2025-05-06 09:18:08.50 spid45s     Database 'model_msdb' running the upgrade step from version 955 to version 956.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      808: 2025-05-06T09:18:08.5547359Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      809: 2025-05-06 09:18:08.55 spid45s     Database 'model_msdb' running the upgrade step from version 956 to version 957.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      810: 2025-05-06T09:18:08.6473159Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      811: 2025-05-06 09:18:08.64 spid45s     Resource governor reconfiguration succeeded.
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET http://localhost:53055/health
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      812: 2025-05-06T09:18:08.6476251Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      813: 2025-05-06 09:18:08.64 spid58s     Attribute synchronization initialized
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      814: 2025-05-06T09:18:08.6483718Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      815: 2025-05-06 09:18:08.64 spid45s     SQL Server Audit is starting the audits. This is an informational message. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      816: 2025-05-06T09:18:08.6492761Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      817: 2025-05-06 09:18:08.64 spid58s     Attribute synchronization manager initialized
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      818: 2025-05-06T09:18:08.6497235Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      819: 2025-05-06 09:18:08.64 spid45s     SQL Server Audit has started the audits. This is an informational message. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      820: 2025-05-06T09:18:08.6778834Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      821: 2025-05-06 09:18:08.67 spid45s     SQL Trace ID 1 was started by login "sa".
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      822: 2025-05-06T09:18:08.6871496Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      823: 2025-05-06 09:18:08.68 spid45s     Server name is 'bdfbf7582fa2'. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      824: 2025-05-06T09:18:08.7029238Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      825: 2025-05-06 09:18:08.70 spid48s     Clearing tempdb database.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      826: 2025-05-06T09:18:08.7043055Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      827: 2025-05-06 09:18:08.70 spid65s     Always On: The availability replica manager is starting. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      828: 2025-05-06T09:18:08.7063727Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      829: 2025-05-06 09:18:08.70 spid65s     Always On: The availability replica manager is waiting for the instance of SQL Server to allow client connections. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      830: 2025-05-06T09:18:08.7073829Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      831: 2025-05-06 09:18:08.70 spid67s     [4]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      832: 2025-05-06T09:18:08.7089359Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      833: 2025-05-06 09:18:08.70 spid69s     [5]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      834: 2025-05-06T09:18:08.7096688Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      835: 2025-05-06 09:18:08.70 spid67s     Starting up database 'msdb'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      836: 2025-05-06T09:18:08.7110851Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      837: 2025-05-06 09:18:08.70 spid69s     Starting up database 'database'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      838: 2025-05-06T09:18:08.7119158Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      839: 2025-05-06 09:18:08.70 spid69s     RemoveStaleDbEntries: Cleanup of stale DB entries called for database ID: [5]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      840: 2025-05-06T09:18:08.7134075Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      841: 2025-05-06 09:18:08.71 spid69s     RemoveStaleDbEntries: Cleanup of stale DB entries skipped because master db is not memory optimized. DbId: 5.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      842: 2025-05-06T09:18:08.7366009Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      843: 2025-05-06 09:18:08.73 spid69s     Parallel redo is started for database 'database' with worker pool size [11].
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      844: 2025-05-06T09:18:08.7422996Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      845: 2025-05-06 09:18:08.73 spid67s     1 transactions rolled forward in database 'msdb' (4:0). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      846: 2025-05-06T09:18:08.7588871Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      847: 2025-05-06 09:18:08.75 spid69s     97 transactions rolled forward in database 'database' (5:0). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      848: 2025-05-06T09:18:08.7764205Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      849: 2025-05-06 09:18:08.77 spid48s     [2]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1. ConcurrentGAMUpdate: 1. ConcurrentSGAMUpdate: 1, CleanupUnderUserTransaction: 0. TranLevelPVS: 0
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      850: 2025-05-06T09:18:08.7777024Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      851: 2025-05-06 09:18:08.77 spid48s     Starting up database 'tempdb'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      852: 2025-05-06T09:18:08.7826189Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      853: 2025-05-06 09:18:08.78 spid69s     0 transactions rolled back in database 'msdb' (4:0). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      854: 2025-05-06T09:18:08.7839827Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      855: 2025-05-06 09:18:08.78 spid69s     Recovery is writing a checkpoint in database 'msdb' (4). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      856: 2025-05-06T09:18:08.7888486Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      857: 2025-05-06 09:18:08.78 spid67s     0 transactions rolled back in database 'database' (5:0). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      858: 2025-05-06T09:18:08.7898464Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      859: 2025-05-06 09:18:08.78 spid67s     Recovery is writing a checkpoint in database 'database' (5). This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      860: 2025-05-06T09:18:08.8049729Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      861: 2025-05-06 09:18:08.80 spid67s     Parallel redo is shutdown for database 'database' with worker pool size [11].
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      862: 2025-05-06T09:18:08.9584144Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      863: 2025-05-06 09:18:08.95 spid48s     The tempdb database has 8 data file(s).
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      864: 2025-05-06T09:18:08.9640833Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      865: 2025-05-06 09:18:08.96 spid65s     The Service Broker endpoint is in disabled or stopped state.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      866: 2025-05-06T09:18:08.9647096Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      867: 2025-05-06 09:18:08.96 spid65s     The Database Mirroring endpoint is in disabled or stopped state.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      868: 2025-05-06T09:18:08.9691534Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      869: 2025-05-06 09:18:08.96 spid65s     Service Broker manager has started.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      870: 2025-05-06T09:18:08.9729238Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      871: 2025-05-06 09:18:08.97 spid45s     Recovery is complete. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      872: 2025-05-06T09:23:25.4015599Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      873: 2025-05-06 09:23:25.39 spid91      Attempting to load library 'xplog70.dll' into memory. This is an informational message only. No user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      874: 2025-05-06T09:23:25.4174989Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      875: 2025-05-06 09:23:25.41 spid91      Using 'xplog70.dll' version '2022.160.4185' to execute extended stored procedure 'xp_msver'. This is an informational message only; no user action is required.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      876: 2025-05-06T09:26:07.3557442Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      877: 2025-05-06 09:26:07.35 spid91      Using 'dbghelp.dll' version '4.0.5'
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      878: 2025-05-06T10:18:11.7521296Z 
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.sql[0]
+      879: 2025-05-06 10:18:11.74 spid14s     [DevOpsSnapshotTelemetryTask] Evaluating the background task.
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 427.8142ms - 200
+[40m[32minfo[39m[22m[49m: Polly[3]
+      Execution attempt. Source: '-standard//Standard-Retry', Operation Key: '', Result: '200', Handled: 'False', Attempt: '0', Execution Time: 827.3895ms
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 1782.2667ms - 200

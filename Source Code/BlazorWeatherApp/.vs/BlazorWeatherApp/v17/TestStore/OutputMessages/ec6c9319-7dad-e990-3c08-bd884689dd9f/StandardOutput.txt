@@ -1,0 +1,58 @@
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Aspire version: 9.2.0+0fcb1e9885266c1700c49c16513a6d97480bb058
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Distributed application starting.
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Application host directory is: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.AppHost
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Distributed application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET http://localhost:52724/
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      1: 2025-05-06T11:25:47.8850000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      2: 2025-05-06T11:25:47.8860000Z       Now listening on: https://localhost:52727
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      3: 2025-05-06T11:25:47.8880000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      4: 2025-05-06T11:25:47.8890000Z       Now listening on: http://localhost:52728
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      5: 2025-05-06T11:25:47.9160000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      6: 2025-05-06T11:25:47.9170000Z       Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      7: 2025-05-06T11:25:47.9180000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      8: 2025-05-06T11:25:47.9190000Z       Hosting environment: Development
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      9: 2025-05-06T11:25:47.9200000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      10: 2025-05-06T11:25:47.9210000Z       Content root path: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.API
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET http://localhost:52724/
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 103.086ms - 404
+[40m[32minfo[39m[22m[49m: Polly[3]
+      Execution attempt. Source: '-standard//Standard-Retry', Operation Key: '', Result: '404', Handled: 'False', Attempt: '0', Execution Time: 116.2275ms
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 143.3352ms - 404
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      1: 2025-05-06T11:25:48.0100000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      2: 2025-05-06T11:25:48.0110000Z       Now listening on: https://localhost:52730
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      3: 2025-05-06T11:25:48.0140000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      4: 2025-05-06T11:25:48.0150000Z       Now listening on: http://localhost:52731
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      5: 2025-05-06T11:25:48.0480000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      6: 2025-05-06T11:25:48.0490000Z       Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      7: 2025-05-06T11:25:48.0510000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      8: 2025-05-06T11:25:48.0520000Z       Hosting environment: Development
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      9: 2025-05-06T11:25:48.0530000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      10: 2025-05-06T11:25:48.0550000Z       Content root path: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp

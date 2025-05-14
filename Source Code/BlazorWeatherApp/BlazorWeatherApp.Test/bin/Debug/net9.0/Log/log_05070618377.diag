@@ -1,0 +1,55 @@
+2025-05-07T06:09:18.3820601+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-05-07T06:09:18.3969904+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-05-07T06:09:18.3978134+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-05-07T06:09:18.3978190+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 06:09:18.361
+2025-05-07T06:09:18.3994285+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 22860
+2025-05-07T06:09:18.3994679+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.2
+2025-05-07T06:09:18.3994797+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Private.CoreLib.dll
+2025-05-07T06:09:18.3994868+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-05-07T06:09:18.3994892+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.Test\bin\Debug\net9.0\BlazorWeatherApp.Test.dll
+2025-05-07T06:09:18.3995676+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.Test\bin\Debug\net9.0\Log --results-directory C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\TestResults --client-port 58347'
+2025-05-07T06:09:18.4004360+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-05-07T06:09:18.4130439+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-05-07T06:09:18.4157162+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.Test\bin\Debug\net9.0\BlazorWeatherApp.Test.testconfig.json' not found.
+2025-05-07T06:09:18.4166804+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-05-07T06:09:18.5290065+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-05-07T06:09:24.1971790+00:00 Microsoft.Testing.Platform.Hosts.ServerTestHost WARNING [ServerTestHost.OnTaskSchedulerUnobservedTaskException] Unhandled exception: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The request was aborted.)
+ ---> System.IO.IOException: The request was aborted.
+   at System.Net.Http.Http2Connection.ThrowRequestAborted(Exception innerException)
+   at System.Net.Http.Http2Connection.Http2Stream.CheckResponseBodyState()
+   at System.Net.Http.Http2Connection.Http2Stream.TryReadFromBuffer(Span`1 buffer, Boolean partOfSyncRead)
+   at System.Net.Http.Http2Connection.Http2Stream.ReadDataAsync(Memory`1 buffer, HttpResponseMessage responseMessage, CancellationToken cancellationToken)
+   at k8s.LineSeparatedHttpContent.CancelableStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadBufferAsync(CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadLineAsyncInternal(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+2025-05-07T06:09:24.1978742+00:00 Microsoft.Testing.Platform.Hosts.ServerTestHost WARNING [ServerTestHost.OnTaskSchedulerUnobservedTaskException] Unhandled exception: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The request was aborted.)
+ ---> System.IO.IOException: The request was aborted.
+   at System.Net.Http.Http2Connection.ThrowRequestAborted(Exception innerException)
+   at System.Net.Http.Http2Connection.Http2Stream.CheckResponseBodyState()
+   at System.Net.Http.Http2Connection.Http2Stream.TryReadFromBuffer(Span`1 buffer, Boolean partOfSyncRead)
+   at System.Net.Http.Http2Connection.Http2Stream.ReadDataAsync(Memory`1 buffer, HttpResponseMessage responseMessage, CancellationToken cancellationToken)
+   at k8s.LineSeparatedHttpContent.CancelableStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadBufferAsync(CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadLineAsyncInternal(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+2025-05-07T06:09:24.1980873+00:00 Microsoft.Testing.Platform.Hosts.ServerTestHost WARNING [ServerTestHost.OnTaskSchedulerUnobservedTaskException] Unhandled exception: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The request was aborted.)
+ ---> System.IO.IOException: The request was aborted.
+   at System.Net.Http.Http2Connection.ThrowRequestAborted(Exception innerException)
+   at System.Net.Http.Http2Connection.Http2Stream.CheckResponseBodyState()
+   at System.Net.Http.Http2Connection.Http2Stream.TryReadFromBuffer(Span`1 buffer, Boolean partOfSyncRead)
+   at System.Net.Http.Http2Connection.Http2Stream.ReadDataAsync(Memory`1 buffer, HttpResponseMessage responseMessage, CancellationToken cancellationToken)
+   at k8s.LineSeparatedHttpContent.CancelableStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadBufferAsync(CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadLineAsyncInternal(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+2025-05-07T06:09:24.1982535+00:00 Microsoft.Testing.Platform.Hosts.ServerTestHost WARNING [ServerTestHost.OnTaskSchedulerUnobservedTaskException] Unhandled exception: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The request was aborted.)
+ ---> System.IO.IOException: The request was aborted.
+   at System.Net.Http.Http2Connection.ThrowRequestAborted(Exception innerException)
+   at System.Net.Http.Http2Connection.Http2Stream.CheckResponseBodyState()
+   at System.Net.Http.Http2Connection.Http2Stream.TryReadFromBuffer(Span`1 buffer, Boolean partOfSyncRead)
+   at System.Net.Http.Http2Connection.Http2Stream.ReadDataAsync(Memory`1 buffer, HttpResponseMessage responseMessage, CancellationToken cancellationToken)
+   at k8s.LineSeparatedHttpContent.CancelableStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadBufferAsync(CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadLineAsyncInternal(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---

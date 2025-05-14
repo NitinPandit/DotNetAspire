@@ -1,0 +1,144 @@
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Aspire version: 9.2.0+0fcb1e9885266c1700c49c16513a6d97480bb058
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Distributed application starting.
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Application host directory is: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.AppHost
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Cli.BackchannelService[0]
+      Backchannel socket path was not specified.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource sql/sql-13eb118b changed state: Starting
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource database/database changed state: Starting
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource api/api-bwmcbrze changed state: Starting
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource sql/sql-13eb118b changed state: Starting
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource database/database changed state: Starting
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource myweatherapp/myweatherapp-cetwjhmg changed state: Starting
+[40m[32minfo[39m[22m[49m: Aspire.Hosting.DistributedApplication[0]
+      Distributed application started. Press Ctrl+C to shut down.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Waiting for resource 'api' to enter the 'Healthy' state.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource api/api-bwmcbrze changed state: Starting
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource myweatherapp/myweatherapp-cetwjhmg changed state: Starting
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource sql/sql-13eb118b changed state: Starting -> Running
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource database/database changed state: Starting -> Running
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Starting health monitoring for resource 'sql'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Starting health monitoring for resource 'database'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Resource 'sql' health checks to monitor: sql_check
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Resource 'database' health checks to monitor: database_check, sql_check
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource api/api-bwmcbrze changed state: Starting -> Running
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Starting health monitoring for resource 'api'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Resource 'api' has no health checks to monitor.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Resource 'api' is ready.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Finished waiting for resource 'api'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Publishing ResourceReadyEvent for 'api'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Waiting for ResourceReadyEvent for 'api'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      ResourceReadyEvent for 'api' completed.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Publishing the result of ResourceReadyEvent for 'api'.
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.LogicalHandler[100]
+      Start processing HTTP request GET http://localhost:52547/
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      1: 2025-05-06T11:18:23.2960000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      2: 2025-05-06T11:18:23.2970000Z       Now listening on: https://localhost:52551
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      3: 2025-05-06T11:18:23.2980000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      4: 2025-05-06T11:18:23.2990000Z       Now listening on: http://localhost:52552
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      5: 2025-05-06T11:18:23.3240000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      6: 2025-05-06T11:18:23.3250000Z       Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      7: 2025-05-06T11:18:23.3260000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      8: 2025-05-06T11:18:23.3270000Z       Hosting environment: Development
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      9: 2025-05-06T11:18:23.3280000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.api[0]
+      10: 2025-05-06T11:18:23.3290000Z       Content root path: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.API
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.ClientHandler[100]
+      Sending HTTP request GET http://localhost:52547/
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.ApplicationModel.ResourceNotificationService[0]
+      Resource myweatherapp/myweatherapp-cetwjhmg changed state: Starting -> Running
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Starting health monitoring for resource 'myweatherapp'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Resource 'myweatherapp' has no health checks to monitor.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Resource 'myweatherapp' is ready.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Publishing ResourceReadyEvent for 'myweatherapp'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Waiting for ResourceReadyEvent for 'myweatherapp'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      ResourceReadyEvent for 'myweatherapp' completed.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Publishing the result of ResourceReadyEvent for 'myweatherapp'.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      1: 2025-05-06T11:18:23.3970000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      2: 2025-05-06T11:18:23.3980000Z       Now listening on: https://localhost:52554
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      3: 2025-05-06T11:18:23.3980000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      4: 2025-05-06T11:18:23.3990000Z       Now listening on: http://localhost:52555
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      5: 2025-05-06T11:18:23.4190000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      6: 2025-05-06T11:18:23.4190000Z       Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      7: 2025-05-06T11:18:23.4200000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      8: 2025-05-06T11:18:23.4210000Z       Hosting environment: Development
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      9: 2025-05-06T11:18:23.4210000Z [40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+[40m[32minfo[39m[22m[49m: BlazorWeatherApp.AppHost.Resources.myweatherapp[0]
+      10: 2025-05-06T11:18:23.4220000Z       Content root path: C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.ClientHandler[101]
+      Received HTTP response headers after 100.4421ms - 404
+[40m[32minfo[39m[22m[49m: Polly[3]
+      Execution attempt. Source: '-standard//Standard-Retry', Operation Key: '', Result: '404', Handled: 'False', Attempt: '0', Execution Time: 111.932ms
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Resource 'sql' is ready.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Resource 'database' is ready.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Publishing ResourceReadyEvent for 'database'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Waiting for ResourceReadyEvent for 'database'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      ResourceReadyEvent for 'database' completed.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Publishing the result of ResourceReadyEvent for 'database'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Publishing ResourceReadyEvent for 'sql'.
+[40m[32minfo[39m[22m[49m: System.Net.Http.HttpClient.Default.LogicalHandler[101]
+      End processing HTTP request after 136.9711ms - 404
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Waiting for ResourceReadyEvent for 'sql'.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      ResourceReadyEvent for 'sql' completed.
+[40m[37mdbug[39m[22m[49m: Aspire.Hosting.Health.ResourceHealthCheckService[0]
+      Publishing the result of ResourceReadyEvent for 'sql'.

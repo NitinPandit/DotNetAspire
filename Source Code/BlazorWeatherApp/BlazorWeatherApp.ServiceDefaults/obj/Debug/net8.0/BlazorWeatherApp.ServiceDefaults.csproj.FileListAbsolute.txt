@@ -1,0 +1,24 @@
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.deps.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.AssemblyInfo.cs
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\refint\BlazorWeatherApp.ServiceDefaults.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\ref\BlazorWeatherApp.ServiceDefaults.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.deps.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.AssemblyInfo.cs
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\refint\BlazorWeatherApp.ServiceDefaults.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.ServiceDefaults\obj\Debug\net8.0\ref\BlazorWeatherApp.ServiceDefaults.dll

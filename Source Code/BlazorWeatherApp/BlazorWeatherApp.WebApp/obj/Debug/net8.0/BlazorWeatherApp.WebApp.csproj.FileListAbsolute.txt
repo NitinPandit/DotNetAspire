@@ -1,0 +1,146 @@
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\appsettings.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.staticwebassets.runtime.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.staticwebassets.endpoints.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.exe
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.deps.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.runtimeconfig.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Polly.Core.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Polly.Extensions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.csproj.AssemblyReference.cache
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.AssemblyInfoInputs.cache
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.AssemblyInfo.cs
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.csproj.CoreCompileInputs.cache
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\scopedcss\bundle\BlazorWeatherApp.WebApp.styles.css
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorWeatherApp.WebApp.bundle.scp.css
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorWeatherApp.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorWeatherApp.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorWeatherApp.WebApp.props
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWeatherApp.WebApp.props
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorWeatherApp.WebApp.props
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWe.D450D2EB.Up2Date
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\refint\BlazorWeatherApp.WebApp.dll
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.genruntimeconfig.cache
+C:\IG\POC Apps\Reveal\Sample Apps\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\ref\BlazorWeatherApp.WebApp.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\appsettings.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.staticwebassets.endpoints.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.staticwebassets.runtime.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.exe
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.deps.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.runtimeconfig.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.WebApp.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Polly.Core.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Polly.Extensions.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\bin\Debug\net8.0\BlazorWeatherApp.ServiceDefaults.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.csproj.AssemblyReference.cache
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.AssemblyInfoInputs.cache
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.AssemblyInfo.cs
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.csproj.CoreCompileInputs.cache
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\scopedcss\bundle\BlazorWeatherApp.WebApp.styles.css
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorWeatherApp.WebApp.bundle.scp.css
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWe.D450D2EB.Up2Date
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\refint\BlazorWeatherApp.WebApp.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.pdb
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\BlazorWeatherApp.WebApp.genruntimeconfig.cache
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\ref\BlazorWeatherApp.WebApp.dll
+C:\IG\POC Apps\Reveal\Sample Apps\Aspire Samples Apps\Aspire Intigrations\BlazorWeatherApp\BlazorWeatherApp.WebApp\obj\Debug\net8.0\staticwebassets.build.json.cache

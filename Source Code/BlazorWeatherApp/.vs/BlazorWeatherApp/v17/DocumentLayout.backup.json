@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IG\\POC Apps\\Reveal\\Sample Apps\\Aspire Samples Apps\\Aspire Intigrations\\BlazorWeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF50CBD7-05E3-447C-A675-249A9B75CFF1}|BlazorWeatherApp.Test\\BlazorWeatherApp.Test.csproj|c:\\ig\\poc apps\\reveal\\sample apps\\aspire samples apps\\aspire intigrations\\blazorweatherapp\\blazorweatherapp.test\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF50CBD7-05E3-447C-A675-249A9B75CFF1}|BlazorWeatherApp.Test\\BlazorWeatherApp.Test.csproj|solutionrelative:blazorweatherapp.test\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF50CBD7-05E3-447C-A675-249A9B75CFF1}|BlazorWeatherApp.Test\\BlazorWeatherApp.Test.csproj|c:\\ig\\poc apps\\reveal\\sample apps\\aspire samples apps\\aspire intigrations\\blazorweatherapp\\blazorweatherapp.test\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF50CBD7-05E3-447C-A675-249A9B75CFF1}|BlazorWeatherApp.Test\\BlazorWeatherApp.Test.csproj|solutionrelative:blazorweatherapp.test\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 660,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\IG\\POC Apps\\Reveal\\Sample Apps\\Aspire Samples Apps\\Aspire Intigrations\\BlazorWeatherApp\\BlazorWeatherApp.Test\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BlazorWeatherApp.Test\\WeatherForecast.cs",
+              "ToolTip": "C:\\IG\\POC Apps\\Reveal\\Sample Apps\\Aspire Samples Apps\\Aspire Intigrations\\BlazorWeatherApp\\BlazorWeatherApp.Test\\WeatherForecast.cs",
+              "RelativeToolTip": "BlazorWeatherApp.Test\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:02:43.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegrationTest1.cs",
+              "DocumentMoniker": "C:\\IG\\POC Apps\\Reveal\\Sample Apps\\Aspire Samples Apps\\Aspire Intigrations\\BlazorWeatherApp\\BlazorWeatherApp.Test\\IntegrationTest1.cs",
+              "RelativeDocumentMoniker": "BlazorWeatherApp.Test\\IntegrationTest1.cs",
+              "ToolTip": "C:\\IG\\POC Apps\\Reveal\\Sample Apps\\Aspire Samples Apps\\Aspire Intigrations\\BlazorWeatherApp\\BlazorWeatherApp.Test\\IntegrationTest1.cs",
+              "RelativeToolTip": "BlazorWeatherApp.Test\\IntegrationTest1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:11:12.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BlazorWeatherApp.API\\BlazorWeatherApp.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorWeatherApp.WebApp\\BlazorWeatherApp.WebApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

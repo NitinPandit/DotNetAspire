@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "l60NZWKRKwC8pPGJ4DXgenxdXZBQcieB0C5iF2uuwXc=",
+  "Source": "BlazorWeatherApp.API",
+  "BasePath": "_content/BlazorWeatherApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
